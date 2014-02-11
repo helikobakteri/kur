@@ -15,7 +15,7 @@ public class kur extends javax.swing.JFrame implements Runnable
     String alis,satis,alis2,satis2;
     public kur() 
     {
-        
+        int ygt=41;
         
         
         initComponents();
